@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/tuusuario/tu-proyecto">
+  <a href="https://github.com/GorkaJesus/SPORTS-SPACES">
     <img src="../myproject//src/assets/img/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -10,14 +10,14 @@
   <p align="center">
     Discover the best places to practice sports on the island of Gran Canaria.
     <br />
-    <a href="https://github.com/tuusuario/tu-proyecto"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/GorkaJesus/SPORTS-SPACES"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://www.figma.com/community/file/897597577856706975">Proyect inspired of Figma</a>
     ·
-    <a href="https://github.com/tuusuario/tu-proyecto/issues">Report Bug</a>
+    <a href="https://github.com/GorkaJesus/SPORTS-SPACES/issues">Report Bug</a>
     ·
-    <a href="https://github.com/tuusuario/tu-proyecto/issues">Request Feature</a>
+    <a https://github.com/GorkaJesus/SPORTS-SPACES/issues">Request Feature</a>
   </p>
 </p>
 
@@ -71,4 +71,4 @@ This project runs on modern web browsers and does not require any backend depend
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/tuusuario/tu-proyecto.git
+   git clone https://github.com/GorkaJesus/SPORTS-SPACES
