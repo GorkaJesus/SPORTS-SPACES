@@ -9,7 +9,7 @@
 /* Header */
 .header {
     padding: 20px 0;
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: black;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.7);
     margin: 0;
     position: fixed;

@@ -14,8 +14,8 @@ export const BASKETBALL = [
             "Wi-Fi"
         ],
         images: [
-            "https://www.pabellonsantiagomartin.es/images/pabellon.jpg", // Imagen de ejemplo
-            "https://www.pabellonsantiagomartin.es/images/pabellon-interior.jpg" // Imagen de ejemplo
+            "https://www.pabellonsantiagomartin.es/images/pabellon.jpg",
+            "https://www.pabellonsantiagomartin.es/images/pabellon-interior.jpg"
         ],
         details: "Pabellón cubierto de baloncesto con capacidad para 5,000 personas, sede de eventos profesionales y competiciones internacionales."
     },
@@ -33,8 +33,8 @@ export const BASKETBALL = [
             "Cafetería"
         ],
         images: [
-            "https://example.com/polideportivo-juan-vega.jpg", // Imagen de ejemplo
-            "https://example.com/polideportivo-juan-vega2.jpg" // Imagen de ejemplo
+            "https://example.com/polideportivo-juan-vega.jpg",
+            "https://example.com/polideportivo-juan-vega2.jpg"
         ],
         details: "Cancha cubierta con superficie de madera para partidos de baloncesto profesional y amateur."
     },
@@ -52,8 +52,8 @@ export const BASKETBALL = [
             "Área de descanso"
         ],
         images: [
-            "https://example.com/pabellon-ballena.jpg", // Imagen de ejemplo
-            "https://example.com/pabellon-ballena2.jpg" // Imagen de ejemplo
+            "https://example.com/pabellon-ballena.jpg",
+            "https://example.com/pabellon-ballena2.jpg"
         ],
         details: "Pabellón deportivo con una cancha de baloncesto de alto rendimiento, ideal para entrenamientos y partidos de liga."
     },
@@ -71,8 +71,8 @@ export const BASKETBALL = [
             "Área de descanso"
         ],
         images: [
-            "https://example.com/cancha-isleta.jpg", // Imagen de ejemplo
-            "https://example.com/cancha-isleta2.jpg" // Imagen de ejemplo
+            "https://example.com/cancha-isleta.jpg",
+            "https://example.com/cancha-isleta2.jpg"
         ],
         details: "Cancha al aire libre ideal para partidos de baloncesto casuales, con iluminación para juegos nocturnos."
     },
@@ -90,8 +90,8 @@ export const BASKETBALL = [
             "Cafetería"
         ],
         images: [
-            "https://example.com/pabellon-ciudad-deportiva.jpg", // Imagen de ejemplo
-            "https://example.com/pabellon-ciudad-deportiva2.jpg" // Imagen de ejemplo
+            "https://example.com/pabellon-ciudad-deportiva.jpg",
+            "https://example.com/pabellon-ciudad-deportiva2.jpg"
         ],
         details: "Pabellón cubierto con capacidad para 1,500 personas, usado para competiciones de baloncesto y eventos deportivos."
     }

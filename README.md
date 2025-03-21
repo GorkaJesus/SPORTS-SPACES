@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/tuusuario/tu-proyecto">
+  <a href="https://github.com/GorkaJesus/SPORTS-SPACES">
     <img src="../myproject//src/assets/img/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -10,14 +10,14 @@
   <p align="center">
     Discover the best places to practice sports on the island of Gran Canaria.
     <br />
-    <a href="https://github.com/tuusuario/tu-proyecto"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/GorkaJesus/SPORTS-SPACES"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://www.figma.com/community/file/897597577856706975">Proyect inspired of Figma</a>
     ·
-    <a href="https://github.com/tuusuario/tu-proyecto/issues">Report Bug</a>
+    <a href="https://github.com/GorkaJesus/SPORTS-SPACES/issues">Report Bug</a>
     ·
-    <a href="https://github.com/tuusuario/tu-proyecto/issues">Request Feature</a>
+    <a href="https://github.com/GorkaJesus/SPORTS-SPACES/issues">Request Feature</a>
   </p>
 </p>
 
@@ -71,4 +71,52 @@ This project runs on modern web browsers and does not require any backend depend
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/tuusuario/tu-proyecto.git
+   git clone https://github.com/GorkaJesus/SPORTS-SPACES
+
+<!-- USAGE -->
+## Usage
+
+To use this project, simply open the `index.html` file in a modern web browser. You can also deploy it to a web server for public access.
+
+<!-- ROADMAP -->
+## Roadmap
+
+- [ ] Add more sports spots
+- [ ] Implement user reviews and ratings
+- [ ] Add a search functionality
+- [ ] Improve mobile responsiveness
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@your_twitter](https://twitter.com/your_twitter) - your_email@example.com
+
+Project Link: [https://github.com/GorkaJesus/SPORTS-SPACES](https://github.com/GorkaJesus/SPORTS-SPACES)
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+
+* [Leaflet](https://leafletjs.com/)
+* [Bootstrap](https://getbootstrap.com/)
+* [FontAwesome](https://fontawesome.com/)
+* [Figma](https://www.figma.com/)
+* [GitHub Pages](https://pages.github.com/)

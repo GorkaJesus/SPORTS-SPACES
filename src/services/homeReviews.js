@@ -7,7 +7,7 @@ export const HOMEREVIEW = [
         rating: 4.8,
         reviewer: "Carlos Sánchez",
         category: "Fútbol",
-        image: sportImage // Se asigna la imagen importada correctamente
+        image: sportImage 
     },
     {
         name: "Polideportivo La Paterna",
@@ -31,14 +31,6 @@ export const HOMEREVIEW = [
         rating: 4.5,
         reviewer: "Ana Rodríguez",
         category: "Fútbol",
-        image: sportImage
-    },
-    {
-        name: "Cancha de Baloncesto del Parque de Santa Catalina",
-        details: "Una cancha de baloncesto al aire libre, ubicada en el famoso Parque de Santa Catalina. Perfecta para disfrutar de un buen partido con vistas al mar y la ciudad. Cuenta con gradas y área de sombra para los espectadores.",
-        rating: 4.3,
-        reviewer: "Miguel Fernández",
-        category: "Baloncesto",
         image: sportImage
     }
 ];

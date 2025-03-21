@@ -36,7 +36,7 @@ export const FOOTBALL = [
             "Cafetería"
         ],
         images: [
-            "https://example.com/juan-pablo-ii.jpg", // Imagen de ejemplo
+            "https://example.com/juan-pablo-ii.jpg", 
             sportImage
         ],
         details: "Campo de fútbol con césped natural, utilizado para partidos oficiales y entrenamientos de equipos locales."
@@ -56,7 +56,7 @@ export const FOOTBALL = [
             "Cafetería"
         ],
         images: [
-            "https://example.com/campo-zardo.jpg", // Imagen de ejemplo
+            "https://example.com/campo-zardo.jpg", 
             sportImage
         ],
         details: "Campo utilizado para competiciones de fútbol base y entrenamientos de clubes deportivos."
@@ -75,7 +75,7 @@ export const FOOTBALL = [
             "Cafetería"
         ],
         images: [
-            "https://example.com/campo-la-isleta.jpg", // Imagen de ejemplo
+            "https://example.com/campo-la-isleta.jpg", 
             sportImage
         ],
         details: "Cancha ubicada en un barrio tradicional de Las Palmas, utilizada para partidos locales y entrenamientos."
@@ -94,7 +94,7 @@ export const FOOTBALL = [
             "Estacionamiento"
         ],
         images: [
-            "https://example.com/campo-albatera.jpg", // Imagen de ejemplo
+            "https://example.com/campo-albatera.jpg", 
             sportImage
         ],
         details: "Campo de fútbol con césped sintético, usado para torneos locales y partidos amistosos."

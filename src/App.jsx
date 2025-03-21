@@ -4,6 +4,7 @@ import FootballPage from './pages/football-page/FootballPage';
 import BasketballPage from './pages/basketball-page/BasketballPage';
 import PrivacyPolicyPage from './pages/privacity-terms/Privacity';
 import SalesTermsPage from './pages/selling-conditions/Conditions';
+import NewsXML from '../../myproject/src/components/news/News';  
 import "./services/i18n";
 
 function App() {
@@ -15,7 +16,8 @@ function App() {
         <Route path="/basketball-page" element={<BasketballPage />} />
         <Route path="/privacy-policy" element={<PrivacyPolicyPage />} />
         <Route path="/sales-terms" element={<SalesTermsPage />} />
-        {/* Default route to Home if no match is found */}
+        <Route path="/news.xml" element={<NewsXML />} />
+        {/*  */}
         <Route path="*" element={<Home />} />
       </Routes>
     </BrowserRouter>
