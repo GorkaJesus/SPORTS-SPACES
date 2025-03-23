@@ -108,7 +108,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your_email@example.com
 
 Project Link: [https://github.com/GorkaJesus/SPORTS-SPACES](https://github.com/GorkaJesus/SPORTS-SPACES)
 
