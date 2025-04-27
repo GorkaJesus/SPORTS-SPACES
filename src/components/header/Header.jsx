@@ -61,6 +61,10 @@ function Header() {
                                     <li>
                                         <Link to="/basketball-page">{t('header_basketball')}</Link>  {/* Usamos 't' para traducir */}
                                     </li>
+                                    {/* Añadimos nueva opción para SportList */}
+                                    <li>
+                                        <Link to="/sport-list">{t('header_sport_list')}</Link>  {/* Usamos 't' para traducir */}
+                                    </li>
                                 </ul>
                             </li>
                         </ul>

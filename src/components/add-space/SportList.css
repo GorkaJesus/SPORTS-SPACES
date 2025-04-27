@@ -1,0 +1,87 @@
+/* Asegurar que el contenedor principal ocupe toda la pantalla y esté centrado */
+.sport-list-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5em; /* Reducido para evitar espaciados muy grandes */
+    background-color: #f4f6f9;
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Centrar el formulario con un diseño más limpio y moderno */
+.sport-form-container {
+    background-color: #ffffff;
+    border-radius: 12px; /* Bordes más suaves */
+    padding: 1.5em; /* Reducido para un aspecto más compacto */
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1); /* Sombra más suave */
+    width: 90%;
+    max-width: 450px; /* Un poco más estrecho para mejor legibilidad */
+    text-align: center;
+    margin: auto; /* Centrado horizontalmente */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em; /* Espaciado uniforme entre elementos */
+}
+
+/* Inputs con un diseño más limpio y accesible */
+.rounded-input {
+    width: 100%;
+    padding: 12px; /* Padding reducido para un aspecto más compacto */
+    border-radius: 8px; /* Bordes más suaves */
+    border: 1.5px solid #28A745; /* Borde más delgado */
+    margin-bottom: 1em; /* Espaciado reducido */
+    font-size: 14px; /* Tamaño de fuente más pequeño */
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    outline: none; /* Eliminar el borde predeterminado al enfocar */
+}
+
+.rounded-input:focus {
+    border-color: #218838;
+    box-shadow: 0 0 8px rgba(33, 136, 56, 0.3); /* Sombra más sutil */
+}
+
+/* Botón con un diseño más moderno y accesible */
+.btn-submit {
+    width: 100%;
+    padding: 12px;
+    background-color: #28A745;
+    color: white;
+    font-size: 16px; /* Tamaño de fuente más pequeño */
+    font-weight: 600;
+    border-radius: 8px; /* Bordes más suaves */
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.btn-submit:hover {
+    background-color: #218838;
+    transform: scale(1.02); /* Efecto de escala más sutil */
+}
+
+/* Fondo con imagen de deportes bien centrada y optimizada */
+body {
+    background-image: url('https://image-url-aqui.jpg'); /* Reemplázalo con tu imagen de fondo */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; /* Fondo fijo para mejor experiencia de desplazamiento */
+    margin: 0; /* Eliminar márgenes predeterminados */
+    padding: 0; /* Eliminar padding predeterminado */
+}
+
+/* Mejoras adicionales para textos y etiquetas */
+.sport-form-container h2 {
+    margin-bottom: 0.8em; /* Espaciado reducido */
+    font-size: 1.5em; /* Tamaño de fuente más pequeño */
+    color: #333; /* Color más oscuro para mejor contraste */
+}
+
+.sport-form-container label {
+    font-size: 14px; /* Tamaño de fuente más pequeño */
+    color: #555; /* Color más suave */
+    margin-bottom: 0.5em; /* Espaciado reducido */
+    display: block; /* Asegurar que las etiquetas ocupen su propia línea */
+}
